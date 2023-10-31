@@ -54,5 +54,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - IMDb movie reviews dataset: [IMDb Dataset](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - Inspiration and guidance from online tutorials and educational resources.
-
-Feel free to modify this `README.md` to include additional information, credits, and references as needed.
